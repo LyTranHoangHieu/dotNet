@@ -1,4 +1,4 @@
-﻿
+
 namespace bai3
 {
     partial class Form1
@@ -86,7 +86,6 @@ namespace bai3
             this.textBox_SoThich.Name = "textBox_SoThich";
             this.textBox_SoThich.Size = new System.Drawing.Size(234, 99);
             this.textBox_SoThich.TabIndex = 5;
-            this.textBox_SoThich.TextChanged += new System.EventHandler(this.textBox3_TextChanged);
             // 
             // button_XacNhan
             // 
