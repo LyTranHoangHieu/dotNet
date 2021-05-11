@@ -17,11 +17,6 @@ namespace task2
             InitializeComponent();
         }
 
-        private void Form1_Load(object sender, EventArgs e)
-        {
-
-        }
-
         private void button_Chao_Click(object sender, EventArgs e)
         {
             label_HienThi.Text = "Chao ban " + textBox1.Text;
