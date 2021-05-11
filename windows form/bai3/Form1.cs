@@ -17,11 +17,6 @@ namespace bai3
             InitializeComponent();
         }
 
-        private void textBox3_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
         private void button_XacNhan_Click(object sender, EventArgs e)
         {
             string s = "Toi ten la: " + textBox_HoTen.Text + "\nNgay sinh: " + textBox_NgaySinh.Text + "\nSo thich:\n";
